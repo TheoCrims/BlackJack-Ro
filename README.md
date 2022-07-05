@@ -85,3 +85,7 @@ main, si afisam daca este booleanul exista ia valoarea true sau false, prin lini
 "Nu esti logat!"
 13
 14
+![image](https://user-images.githubusercontent.com/108735938/177332277-c11a111f-0168-4fb8-824c-99c619d867c1.png)
+![image](https://user-images.githubusercontent.com/108735938/177332371-a02d590c-a140-4cb0-8c96-ee253c3657aa.png)
+![image](https://user-images.githubusercontent.com/108735938/177332448-7229d960-1a7b-4d93-8175-0628c8536658.png)
+![image](https://user-images.githubusercontent.com/108735938/177332489-ed3f2f0c-32b4-41e9-846b-70ed48d9068b.png)
